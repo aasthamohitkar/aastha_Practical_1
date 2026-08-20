@@ -1,6 +1,4 @@
-create database college_1;
-Use college_1;
-create table demo
-(ID int primary key,
-college_1_name varchar (50));
-desc demo;
+Database college_1 is created.
+It is used while creating table demo.
+A table named demo is created which uses the attributes ID, college_1_name.
+The code is executed.
